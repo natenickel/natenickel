@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @natenickel
 - 👀 I’m interested in web design 
-- 🌱 I’m currently learning through MIT xpro Full stack coding course
+- 🌱 I’m currently learning through the MIT xpro Full stack coding course
 - 💞️ I’m looking to collaborate and expand my knowledge of coding
 
 
